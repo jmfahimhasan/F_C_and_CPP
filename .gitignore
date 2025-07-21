@@ -1,0 +1,14 @@
+# C/C++ project ignore rules
+
+*.exe
+*.out
+*.obj
+*.o
+*.log
+*.tmp
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+/build/
+/bin/
