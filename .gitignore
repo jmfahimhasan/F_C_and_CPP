@@ -1,0 +1,48 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary/executable files
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+
+# Node.js
+node_modules/
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
